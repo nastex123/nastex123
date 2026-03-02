@@ -3,6 +3,7 @@
 🎓 Telematics Engineering student at IUB
 💻 Former Systems Engineering student at Libre University
 🚀 Aspiring Riwi coder with a passion for backend development
+
 🌟 About Me
 
 During the pandemic, I discovered Minecraft and was inspired by the creativity of the community — maps, mods, and more.
@@ -11,21 +12,21 @@ That experience led me to dive deep into Java, which has become my dominant prog
 
 I specialize in backend development, building programs and systems such as:
 
-        🏥 Hospital simulations
+🏥 Hospital simulations
 
-        🎓 Academy management systems
+🎓 Academy management systems
 
-        🌐 Websites
+🌐 Websites
 
-        ⚡ Electric circuit simulations
+⚡ Electric circuit simulations
 
 🎯 My Goals
 
-    Keep growing as a backend developer
+Keep growing as a backend developer
 
-    Expand my skills into full-stack development
+Expand my skills into full-stack development
 
-    Contribute to open-source projects and share knowledge with the community
+Contribute to open-source projects and share knowledge with the community
 
 🕹 Fun Fact
 

@@ -5,11 +5,11 @@
 🚀 Aspiring Riwi coder with a passion for backend development
 🌟 About Me
 
-    During the pandemic, I discovered Minecraft and was inspired by the creativity of the community — maps, mods, and more.
+During the pandemic, I discovered Minecraft and was inspired by the creativity of the community — maps, mods, and more.
 
-    That experience led me to dive deep into Java, which has become my dominant programming language.
+That experience led me to dive deep into Java, which has become my dominant programming language.
 
-    I specialize in backend development, building programs and systems such as:
+I specialize in backend development, building programs and systems such as:
 
         🏥 Hospital simulations
 
